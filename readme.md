@@ -11,7 +11,7 @@ Embark on a journey of discovery as we delve into the realm of OpenAI's powerful
 3. <a href='Document_Info_Extractor'>**Document Information Extractor and Q/A System:** </a> Elevate your skills by building a robust Document Information Extractor and Question-Answering system, pushing the boundaries of what you can achieve with OpenAI.
 
 
-4. <a href='Slides'>**Slide with more Detail** </a> For More Details
+4. <a href='https://prezi.com/view/m05RbNwDNwE1ceVKgqTV/'>**Slide with more Detail** </a> For More Details
 ## How to Navigate
 
 This repository seamlessly integrates Streamlit and OpenAI, providing a dynamic and interactive learning environment. The principles demonstrated here are versatile, allowing integration with other programming languages. Refer to this [guide](https://blog.bitsrc.io/interacting-with-openai-in-node-js-and-express-647e771fc4ad) for incorporating OpenAI into Node.js and Express.
